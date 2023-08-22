@@ -1,0 +1,53 @@
+
+
+body {
+  width: 1024px;
+  margin: auto;
+  height: 500px;
+  padding: 50px;
+  background-color: lightblue;
+  text-align: center;
+}
+
+div {
+  color: purple;
+  font-size: 20px;
+  background-color: lightblue;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+
+h3 {
+  background-color: purple;
+  color: white;
+  width: 150px;
+  margin-top: 20px;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(72, 50, 72);
+}
+
+.product {
+  width: 600px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: auto;
+}
+
+p {
+  color: black;
+}
+
+img {
+  width: auto;
+  height: 500px;
+}
